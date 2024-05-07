@@ -1,0 +1,27 @@
+[
+	{
+		"Sid": 101,
+		"Sname": "Denish",
+		"Percentage": 95
+	},
+
+
+	{
+		"Sid": 102,
+		"Sname": "Chirag",
+		"Percentage": 90
+	},
+
+	{
+		"Sid": 103,
+		"Sname": "krishna",
+		"Percentage": 92
+	},
+	{
+		"Sid": 104,
+		"Sname": "Raj",
+		"Percentage": 91
+	}
+
+
+]

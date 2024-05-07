@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<movies>
+	<movie>
+			<movieid>1</movieid>
+			<moviename>apple</moviename>
+			<category>horror</category>
+	</movie>
+
+	<movie>
+			<movieid>2</movieid>
+			<moviename>mango</moviename>
+			<category>comedy</category>
+	</movie>
+
+	<movie>
+			<movieid>3</movieid>
+			<moviename>orange</moviename>
+			<category>horror</category>
+	</movie>
+
+	<movie>
+			<movieid>4</movieid>
+			<moviename>banan</moviename>
+			<category>comedy</category>
+	</movie>
+
+</movies>
